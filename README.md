@@ -1,3 +1,7 @@
+# BC Purpose
+
+Being used by [bc-modular-onbaording-site](https://github.com/bigcommerce-labs/bc-modular-onboarding-site). Required forking to address a security vulnerability with `yargs`, `eslint`, and `mocha`.
+
 # Chokidar CLI
 
 [![Build Status](https://github.com/open-cli-tools/chokidar-cli/workflows/Tests/badge.svg)](https://github.com/open-cli-tools/chokidar-cli/actions?workflow=Tests)
